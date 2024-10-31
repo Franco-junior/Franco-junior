@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson Franco (most called Franco)</h1>
-<h3 align="center">Second-semester student of Computer Engineering at Insper SP-BR.</h3>
+<h3 align="center">Fourth-semester student of Computer Engineering at Insper SP-BR.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franco-junior&label=Profile%20views&color=0e75b6&style=flat" alt="franco-junior" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/franco-junior](https://github.com/franco-junior)
 
-- 📫 How to reach me **soaresanderson789@gmail.com**
+- 📫 How to reach me **andersonsfj@al.insper.edu.br**
 
-- ⚡ Fun fact **I was born in Amazonas (Brazil) and now I'm living in São Paulo to study**
+- ⚡ Fun fact **I was born in Amazonas (Brazil) and now I'm living in São Paulo-BR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
